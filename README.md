@@ -39,6 +39,7 @@ Project Report
 
   Once we transformed all of our data, we loaded our dataframes into postgresql using the create engine function. We created the tables in order to house the different groups of questions. These tables can be used to compare the different categories of questions and how they relate to the World Happiness Report. A table was created to house the World Happiness Report.The topic was chosen to see if there is any correlation between what differing societies and cultures value and those societies/cultures subsequent happiness. Do more conservative or liberal societies have more people that are happy? Is being a part of an organization beneficial to one's happiness? These are a few examples of questions posed by our group when coming up with the topic of: Does a country's values have an affect on their population's happiness?
 
+![Upload_Tables_to_PostgreSQL](https://user-images.githubusercontent.com/16747240/199421981-6e3bddca-19d3-4593-ad43-48dc50467ffe.png)
 
 
 
